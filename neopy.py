@@ -12,7 +12,7 @@ headers={"Host": "www.xiaoniu88.com",
 "Accept": "*/*",
 "Origin": "https://www.xiaoniu88.com",
 "X-Requested-With": "XMLHttpRequest",
-"User-Agent":"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36",
+"User-Agent":"******",
 "Accept-Encoding": "gzip, deflate",
 "Accept-Language": "zh-CN,zh;q=0.8"}
 
